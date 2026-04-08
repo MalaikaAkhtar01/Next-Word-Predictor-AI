@@ -8,7 +8,7 @@ This project combines **probabilistic modeling**, **incremental learning**, and 
 
 ## 📸 Project Preview  
 
-![word predictor Screenshot](word predictor.png)
+![Word Predictor Screenshot](word-predictor-ss.png)
 
 ---
 

@@ -1,0 +1,5 @@
+aclImdb/
+*.tar.gz
+*.tar
+__pycache__/
+.vscode/

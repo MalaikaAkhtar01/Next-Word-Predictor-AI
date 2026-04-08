@@ -6,6 +6,12 @@ This project combines **probabilistic modeling**, **incremental learning**, and 
 
 ---
 
+## 📸 Project Preview  
+
+![word predictor Screenshot](word predictor.png)
+
+---
+
 ## 📌 Overview  
 
 The AI Trigram Word Predictor analyzes sequences of words and predicts the most likely next word based on previously seen patterns.  
@@ -116,6 +122,7 @@ Where:
 ```
 Trigram-Word-Predictor/
 │── word-predictor.py
+│── word-predictor-ss.png
 │── README.md
 │── aclImdb/ (optional dataset)
 │── requirements.txt (optional)

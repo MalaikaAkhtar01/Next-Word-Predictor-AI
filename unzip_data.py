@@ -5,7 +5,7 @@ import os
 filename = 'aclImdb_v1 (1).tar.gz'
 
 if os.path.exists(filename):
-    print("Extracting dataset (aclImdb)... isme 1-2 minute lag saktay hain ⏳")
+    print("Extracting dataset (aclImdb)... ")
     try:
         # 'r:gz' isliye taake .tar.gz file khul sakay
         with tarfile.open(filename, "r:gz") as tar:
